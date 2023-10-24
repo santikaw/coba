@@ -1,0 +1,22 @@
+[
+    {
+      "nama_grooming": "Kitten Daily Grooming",
+      "harga": 50000
+    },
+    {
+      "nama_grooming": "Daily Grooming",
+      "harga": 60000
+    },
+	  {
+      "nama_grooming": "White Fur Treatment",
+      "harga": 75000
+    },
+    {
+      "nama_grooming": "Medical Grooming",
+      "harga": 80000
+    },
+    {
+      "nama_grooming": "Grooming Express",
+      "harga": 100000
+    }
+ ]
